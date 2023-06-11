@@ -1,0 +1,10 @@
+
+@import url("./styles/reset.css");
+
+@import url("./styles/desktop/desktop.css") (max-width: 1920px) and (min-width: 769px);
+@import url("./styles/tablet/tablet.css") (max-width: 768px) and (min-width: 361px);
+@import url("./styles/mobile/mobile.css") (max-width: 360px) and (min-width: 250px);
+
+
+
+
